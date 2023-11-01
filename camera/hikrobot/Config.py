@@ -1,0 +1,2 @@
+EXPOSURE_TIME = 100.0
+GRAIN         = 7.6
